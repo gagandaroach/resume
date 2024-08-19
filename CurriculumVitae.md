@@ -1,7 +1,6 @@
 # CV: Gagandeep Daroach
 
 ```
-1247 Crescent Ter
 Sunnyvale CA 94087
 (715) 587-2429
 linkedin.com/in/gdaroach
@@ -18,12 +17,11 @@ Santa Clara, California, USA
 
 August 2021 - Present
 
-* Member of AI4G, a team of engineers delivering artifical intelligence solutions to accelerate and enhance the experience of graphics and gaming applications. Examples include DLSS Super Resolution, DLSS Frame Generation, and DLSS Ray Reconstruction.
+* Member of AI4G, a team of engineers productizing artifical intelligence solutions to accelerate and enhance the experience of graphics and gaming applications. Examples include DLSS Super Resolution, DLSS Frame Generation, and DLSS Ray Reconstruction.
 * Tech Lead for Ada-Next Launch Feature
 * Core contributor of DLSS 3.0 Frame Generation, a novel solution for real-time frame interpolation for DirectX and Vulkan Graphics engines on Linux and Windows.
-* Core contributor of the Nvidia Streamline SDK, a 
-* Engineer Nvidia Streamline SDK
-* Lead design and implementation of continuous integration and continuous depl 
+* Core contributor of the Nvidia Streamline SDK, an open source solution to simplify the integration of super resolution and super generation technologies into technologies and games.
+* Exercise leadership in deep learning research (PyTorch), real-time prototyping (CUDA, C++), public productization and long-term project maintenance (CI/CD, Testing, Security, PLC).
 
 #### Applied Research Internship
 
@@ -74,8 +72,6 @@ Greater Milwaukee Area, Wisconsin, USA
 
 March 2020 - May 2021
 
-* TODO
-
 #### PURE Research Intern
 
 September 2019 - March 2020
@@ -93,8 +89,8 @@ September 2019 - March 2020
 
 September 2017 - May 2021
 
-* Dean's List all semesters, Graduated with Honors
-* Club member Society of Software Engineers
+* Dean's List all semesters, Graduated with Honors.
+* Society of Software Engineers club member.
 
 ## Publications
 
@@ -128,8 +124,12 @@ September 2020 - May 2021
 * Led a five-engineer team to design and deploy a scalable modern video analytics system using real time computer vision inference and the Nvidia Deepstream C SDK, processing more than 100 MSOE 4K cameras into live meta-data dashboards.
 * Collaborated with the MSOE Public Safety Department as scrum master, product owner, and software architect to gather requirements, organize the team product backlog, prioritize feature development, and deliver on periodic project releases.
 * Leveraged Kafka message broker, on-site edge inference nodes, and self-hosted cloud to architect meta-data processing solution.
+* Started as MSOE Senior Design Project, transitioned into LLC.
 
 ### MCW Surgury Simulator
 
-* TODO
+Sept 2019 - May 2020
 
+* Collaborated with the Medical College of Wisconsin to develop a simulator to train orthopedic residents on percutaneous femoral neck fixation, a procedure in which the surgeon drills into a patient’s hip to repair fractures via x-ray guidance. 
+* Created a Docker containerized micro-service solution on the raspberry pi ARM platform, leveraging OpenCV to process cameras and broadcast data to mobile devices via WiFi served ReactJS web interface for moderators and residents.
+* MSOE Undergrad Software Design Lab year long project.
