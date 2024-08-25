@@ -18,7 +18,7 @@ Santa Clara, California, USA
 August 2021 - Present
 
 * Member of AI4G, a team of engineers productizing artifical intelligence solutions to accelerate and enhance the experience of graphics and gaming applications. Examples include DLSS Super Resolution, DLSS Frame Generation, and DLSS Ray Reconstruction.
-* Tech Lead for Ada-Next Launch Feature
+* Engineering Lead for Ada-Next Launch Feature
 * Core contributor of DLSS 3.0 Frame Generation, a novel solution for real-time frame interpolation for DirectX and Vulkan Graphics engines on Linux and Windows.
 * Core contributor of the Nvidia Streamline SDK, an open source solution to simplify the integration of super resolution and super generation technologies into applications and games.
 * Exercise leadership in deep learning research (PyTorch), real-time prototyping (CUDA, C++), public productization and long-term project maintenance (CI/CD, Testing, Security, PLC).
