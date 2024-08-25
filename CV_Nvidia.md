@@ -25,7 +25,7 @@ August 2021 - Present
 
 #### Applied Research Internship
 
-May 2020 - August 2020 (4 Months)
+May 2020 - August 2020
 
 * Member of Nvidia DLMED, a cross-discipline team of 20+ researchers and engineers solving modern computer vision challenges in medical imaging with federated learning, auto machine learning, and deep learning frameworks.
 * Developed a deep adversarial learning workflow for Project MONAI, the Medical Open Network Artificial Intelligence PyTorch extension framework aiming to standardize and simplify medical imaging research globally.
