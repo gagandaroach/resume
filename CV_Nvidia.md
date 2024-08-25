@@ -31,7 +31,6 @@ May 2020 - August 2020 (4 Months)
 * Developed a deep adversarial learning workflow for Project MONAI, the Medical Open Network Artificial Intelligence PyTorch extension framework aiming to standardize and simplify medical imaging research globally.
 * Developed RadioGenomic GAN, a synthesis network mapping gene expression data onto diagnostic medical image features.
 
-
 ### Milwaukee School of Engineering
 
 Milwaukee, Wisconsin, USA
@@ -51,7 +50,7 @@ Greater Milwaukee Area, Wisconsin, USA
 
 #### Product Marketing Intern
 
-September 2019 - March 2020 (6 months)
+September 2019 - March 2020
 
 * Design and carry out research on competitor products, identifying areas of market advantage and disadvantage. Gather statistical data from competitor products, drawing analysis from data and creating competitive advantage reports.
 * Translate customer insights into software and hardware engineering deliverables.
@@ -59,7 +58,7 @@ September 2019 - March 2020 (6 months)
 
 #### Software Engineering Intern
 
-May 2018 - September 2019 (1 Year 5 months)
+May 2018 - September 2019
 
 * Enterprise scale C# application development of new features and product maintenance in formal Scrum Agile workflow.
 * Developed continuous integration regression testing and robust quality assurance pipelines for next generation products.
@@ -90,6 +89,7 @@ September 2019 - March 2020
 September 2017 - May 2021
 
 * Dean's List all semesters, Graduated with Honors.
+* Undergraduate Research Team Scrum Leader.
 * Society of Software Engineers club member.
 
 ## Publications
@@ -135,4 +135,5 @@ Sept 2019 - May 2020
 
 * Collaborated with the Medical College of Wisconsin to develop a simulator to train orthopedic residents on percutaneous femoral neck fixation, a procedure in which the surgeon drills into a patient’s hip to repair fractures via x-ray guidance. 
 * Created a Docker containerized micro-service solution on the raspberry pi ARM platform, leveraging OpenCV to process cameras and broadcast data to mobile devices via WiFi served ReactJS web interface for moderators and residents.
-* MSOE Undergrad Software Design Lab year long project.
+* Lead 5 engineers using Scrum/Agile workflow.
+* MSOE Undergrad Software Design Lab.
