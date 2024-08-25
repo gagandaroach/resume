@@ -106,14 +106,17 @@ Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette
 
 February 2021 – Scitepress
 
-## Presentation Experience
+## Research Talk Experience
 
-* 2022 February: MICCAI 2022 Poster Presentation Singapore
-* 2021? February: Data Driven MKE 2 Oral Presentation
-* 2020 November?: BioImaging 2021 Oral Presentation
-* 2020 October?: Data Driven MKE 1 Oral Presentation
-* 2020 July: Nvidia GTC 2 Oral Presentation
-* 2021 July: Nvidia GTC 1 Poster Presentation 2020: “Manipulating the StyleGAN Latent Space: H&E Image Synthesis for Prostate Cancer Research”
+### Presentations
+
+* 2023 February (Singapore): MICCAI 2022, Poster Presentation: "Prostate Cancer Histology Synthesis using StyleGAN Latent
+Space Annotation"
+* 2022 September (Milwaukee, WI): Milwaukee Big Data, Oral Presentation: "Our Journey Inventing Machine Learning that Helps Diagnose Cancer"
+* 2021 April (San Jose, CA): Nvidia GTC, Oral Presentation: "From Faces to Histology: Applying StyleGAN in a Spatially Invariant Domain" https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31584/
+* 2021 February (Vienna, Austria): BioImaging 2021, Oral Presentation: "High-resolution Controllable Prostatic Histology Synthesis using StyleGAN"
+* 2021 February (Milwaukee, WI): Data Driven Milwaukee, Oral Presentation: "Generative Adversarial Networks on Rosie - MSOE's GPU Supercomputer" https://www.meetup.com/mke-big-data/events/276163078/?eventOrigin=group_events_list
+* 2020 March (San Jose, CA): Nvidia GTC, Poster Presentation: “Manipulating the StyleGAN Latent-Space: H&E Image Synthesis for Prostate Cancer Research”
 
 ## Project Experience
 
