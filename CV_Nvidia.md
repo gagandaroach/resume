@@ -106,9 +106,7 @@ Gagandeep B. Daroach, Josiah A. Yoder, Kenneth A. Iczkowski, Peter S. LaViolette
 
 February 2021 – Scitepress
 
-## Research Talk Experience
-
-### Presentations
+## Presentation Experience
 
 * 2023 February (Singapore): MICCAI 2022, Poster Presentation: "Prostate Cancer Histology Synthesis using StyleGAN Latent
 Space Annotation"
