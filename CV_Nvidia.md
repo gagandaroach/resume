@@ -18,7 +18,9 @@ Applied Research, C++, CUDA, Python, C++ Linux, Docker, Kafka, Git, CI/CD, Deeps
 ## Work Experience
 
 ### Nvidia Corporation, Santa Clara, CA
-**Machine Learning Engineer** | Aug 2021 - Present
+**Senior Machine Learning Engineer** | Feb 2025 - Present
+- Extension of prior role, with higher rigor and agency towards deliving state of the art updates to Image Quality, Performance, and FeatureSets of DLSS products.
+**Machine Learning Engineer** | Aug 2021 - Feb 2025
 - Lead engineer and Pilot-in-Charge (PIC) for DLSS Multi-Frame Generation, a core component of DLSS 4 — the flagship AI-powered graphics feature for the Blackwell GPU launch.
 - Core contributor to DLSS Frame Generation (real-time frame interpolation for DirectX/Vulkan on Linux/Windows), the main component of DLSS 3 - the flagship graphics feature for the Ada GPU launch.
 - Developed and maintained Nvidia Streamline SDK (open source, super resolution/generation integration).
